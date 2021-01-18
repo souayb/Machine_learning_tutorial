@@ -43,6 +43,16 @@ The description of step are in within the jupyter notebook
 - Hyper parameter tuning 
   - K-fold crossvalidation 
 ### Lab6:
+  - ### Dataset: Random generated dataset and Wine+Quality
+  - GLMs
+    - Generalized linear models with sklearn 
+    - Polynomial Regression 
+    - Effect of regularization 
+  - Coordinate Descent with L1 regularization
+### Lab7:
+  - ### Dataset: Iris , Wine Quality 
+  - Implentation of KNN
+  - Optimal K using Elbow method
 
   
  
