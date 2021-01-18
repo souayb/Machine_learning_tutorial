@@ -30,8 +30,20 @@ The description of step are in within the jupyter notebook
 ### Lab4:
   - ### Dataset: Tic Tac Toe
   - Stratified sampling 
-  -Logistic Regression with Gradient Ascent
-    - Compare with use of step lengh controler 
+  - Logistic Regression with Gradient Ascent
+    - Compare with use of step lengh controler
+  - Logistic Regression with Newton Algorithm
+### Lab5:
+  - ### Dataset: 
+    - Bank Marketing for regression task
+    - Wine Quality for classification task
+ - Linear Classification with Gradient Descent
+  - Ridge Regression using mini-Batch GD
+  - implementation of Adagrad 
+- Hyper parameter tuning 
+  - K-fold crossvalidation 
+### Lab6:
+
   
  
  
